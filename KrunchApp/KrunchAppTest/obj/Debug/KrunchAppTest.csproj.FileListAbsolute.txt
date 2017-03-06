@@ -1,0 +1,13 @@
+E:\Projects\KrunchApp\KrunchAppTest\bin\Debug\KrunchAppTest.dll
+E:\Projects\KrunchApp\KrunchAppTest\bin\Debug\KrunchAppTest.pdb
+E:\Projects\KrunchApp\KrunchAppTest\bin\Debug\BlankLibrary.dll
+E:\Projects\KrunchApp\KrunchAppTest\bin\Debug\KrunchApp.exe
+E:\Projects\KrunchApp\KrunchAppTest\bin\Debug\nunit.framework.dll
+E:\Projects\KrunchApp\KrunchAppTest\bin\Debug\VowelLettersLibrary.dll
+E:\Projects\KrunchApp\KrunchAppTest\bin\Debug\BlankLibrary.pdb
+E:\Projects\KrunchApp\KrunchAppTest\bin\Debug\KrunchApp.pdb
+E:\Projects\KrunchApp\KrunchAppTest\bin\Debug\VowelLettersLibrary.pdb
+E:\Projects\KrunchApp\KrunchAppTest\bin\Debug\nunit.framework.xml
+E:\Projects\KrunchApp\KrunchAppTest\obj\Debug\KrunchAppTest.csprojResolveAssemblyReference.cache
+E:\Projects\KrunchApp\KrunchAppTest\obj\Debug\KrunchAppTest.dll
+E:\Projects\KrunchApp\KrunchAppTest\obj\Debug\KrunchAppTest.pdb

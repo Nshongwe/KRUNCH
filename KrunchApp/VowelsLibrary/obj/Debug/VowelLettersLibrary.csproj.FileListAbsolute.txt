@@ -1,0 +1,4 @@
+E:\Projects\KrunchApp\VowelsLibrary\bin\Debug\VowelLettersLibrary.dll
+E:\Projects\KrunchApp\VowelsLibrary\bin\Debug\VowelLettersLibrary.pdb
+E:\Projects\KrunchApp\VowelsLibrary\obj\Debug\VowelLettersLibrary.dll
+E:\Projects\KrunchApp\VowelsLibrary\obj\Debug\VowelLettersLibrary.pdb

@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KrunchApp", "KrunchApp\KrunchApp.csproj", "{1D09F444-E947-4138-A361-C48E6FEBAAFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelLettersLibrary", "VowelsLibrary\VowelLettersLibrary.csproj", "{9372C2E2-F809-4375-92E1-C385287A5C45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlankLibrary", "BlankLibrary\BlankLibrary.csproj", "{691BC0BF-4C02-4313-BB9F-64937000EB68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlankLibraryTest", "BlankLibraryTest\BlankLibraryTest.csproj", "{BFA3BE04-A617-41FA-9F85-36CD1A19D293}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelLettersLibraryTest", "VowelLettersLibraryTest\VowelLettersLibraryTest.csproj", "{C774813B-E858-4B10-A101-9B5A6023A186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KrunchAppTest", "KrunchAppTest\KrunchAppTest.csproj", "{FABB7D75-BCA9-4909-BCC4-1F905A1C82CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D09F444-E947-4138-A361-C48E6FEBAAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D09F444-E947-4138-A361-C48E6FEBAAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D09F444-E947-4138-A361-C48E6FEBAAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D09F444-E947-4138-A361-C48E6FEBAAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9372C2E2-F809-4375-92E1-C385287A5C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9372C2E2-F809-4375-92E1-C385287A5C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9372C2E2-F809-4375-92E1-C385287A5C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9372C2E2-F809-4375-92E1-C385287A5C45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{691BC0BF-4C02-4313-BB9F-64937000EB68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691BC0BF-4C02-4313-BB9F-64937000EB68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691BC0BF-4C02-4313-BB9F-64937000EB68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691BC0BF-4C02-4313-BB9F-64937000EB68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFA3BE04-A617-41FA-9F85-36CD1A19D293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA3BE04-A617-41FA-9F85-36CD1A19D293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA3BE04-A617-41FA-9F85-36CD1A19D293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA3BE04-A617-41FA-9F85-36CD1A19D293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C774813B-E858-4B10-A101-9B5A6023A186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C774813B-E858-4B10-A101-9B5A6023A186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C774813B-E858-4B10-A101-9B5A6023A186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C774813B-E858-4B10-A101-9B5A6023A186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FABB7D75-BCA9-4909-BCC4-1F905A1C82CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABB7D75-BCA9-4909-BCC4-1F905A1C82CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABB7D75-BCA9-4909-BCC4-1F905A1C82CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABB7D75-BCA9-4909-BCC4-1F905A1C82CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

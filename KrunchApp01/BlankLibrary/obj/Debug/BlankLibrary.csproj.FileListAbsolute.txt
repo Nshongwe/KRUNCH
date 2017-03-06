@@ -1,0 +1,5 @@
+E:\Projects\KrunchApp\BlankLibrary\bin\Debug\BlankLibrary.dll
+E:\Projects\KrunchApp\BlankLibrary\bin\Debug\BlankLibrary.pdb
+E:\Projects\KrunchApp\BlankLibrary\obj\Debug\BlankLibrary.csprojResolveAssemblyReference.cache
+E:\Projects\KrunchApp\BlankLibrary\obj\Debug\BlankLibrary.dll
+E:\Projects\KrunchApp\BlankLibrary\obj\Debug\BlankLibrary.pdb

@@ -1,0 +1,11 @@
+E:\KRUNCH\bin\Debug\KRUNCH.exe.config
+E:\KRUNCH\bin\Debug\KRUNCH.exe
+E:\KRUNCH\bin\Debug\KRUNCH.pdb
+E:\KRUNCH\obj\Debug\KRUNCH.csprojResolveAssemblyReference.cache
+E:\KRUNCH\obj\Debug\KRUNCH.exe
+E:\KRUNCH\obj\Debug\KRUNCH.pdb
+E:\KRUNCH\bin\Debug\SimpleInjector.dll
+E:\KRUNCH\bin\Debug\SimpleInjector.xml
+C:\Users\Samson\Documents\Forbes\KRUNCH\bin\Debug\KRUNCH.exe.config
+C:\Users\Samson\Documents\Forbes\KRUNCH\obj\Debug\KRUNCH.exe
+C:\Users\Samson\Documents\Forbes\KRUNCH\obj\Debug\KRUNCH.pdb

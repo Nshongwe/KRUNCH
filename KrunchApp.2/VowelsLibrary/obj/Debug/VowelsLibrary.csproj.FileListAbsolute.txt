@@ -1,0 +1,10 @@
+G:\Projects\KrunchApp\VowelsLibrary\bin\Debug\VowelsLibrary.dll
+G:\Projects\KrunchApp\VowelsLibrary\bin\Debug\VowelsLibrary.pdb
+G:\Projects\KrunchApp\VowelsLibrary\obj\Debug\VowelsLibrary.csprojResolveAssemblyReference.cache
+G:\Projects\KrunchApp\VowelsLibrary\obj\Debug\VowelsLibrary.dll
+G:\Projects\KrunchApp\VowelsLibrary\obj\Debug\VowelsLibrary.pdb
+E:\Projects\KrunchApp\VowelsLibrary\bin\Debug\VowelsLibrary.dll
+E:\Projects\KrunchApp\VowelsLibrary\bin\Debug\VowelsLibrary.pdb
+E:\Projects\KrunchApp\VowelsLibrary\obj\Debug\VowelsLibrary.csprojResolveAssemblyReference.cache
+E:\Projects\KrunchApp\VowelsLibrary\obj\Debug\VowelsLibrary.dll
+E:\Projects\KrunchApp\VowelsLibrary\obj\Debug\VowelsLibrary.pdb

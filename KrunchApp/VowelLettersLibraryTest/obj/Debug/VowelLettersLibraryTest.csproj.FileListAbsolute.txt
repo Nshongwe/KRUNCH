@@ -1,0 +1,9 @@
+E:\Projects\KrunchApp\VowelLettersLibraryTest\bin\Debug\VowelLettersLibraryTest.dll
+E:\Projects\KrunchApp\VowelLettersLibraryTest\bin\Debug\VowelLettersLibraryTest.pdb
+E:\Projects\KrunchApp\VowelLettersLibraryTest\bin\Debug\nunit.framework.dll
+E:\Projects\KrunchApp\VowelLettersLibraryTest\bin\Debug\VowelLettersLibrary.dll
+E:\Projects\KrunchApp\VowelLettersLibraryTest\bin\Debug\VowelLettersLibrary.pdb
+E:\Projects\KrunchApp\VowelLettersLibraryTest\bin\Debug\nunit.framework.xml
+E:\Projects\KrunchApp\VowelLettersLibraryTest\obj\Debug\VowelLettersLibraryTest.csprojResolveAssemblyReference.cache
+E:\Projects\KrunchApp\VowelLettersLibraryTest\obj\Debug\VowelLettersLibraryTest.dll
+E:\Projects\KrunchApp\VowelLettersLibraryTest\obj\Debug\VowelLettersLibraryTest.pdb
